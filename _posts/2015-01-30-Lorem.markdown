@@ -2,5 +2,4 @@
 layout: post
 comments: true
 ---
-<img src="/images/fulls/02.jpg" class="fit image">
 Dit is de pagina
